@@ -1,0 +1,4 @@
+telethon>=1.28.5
+peewee>=3.16.3
+playhouse>=0.0.1
+asyncio
